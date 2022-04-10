@@ -82,5 +82,12 @@ Rank all things
 ![image](https://user-images.githubusercontent.com/89348077/162640194-38cb3d6b-7697-489e-9bab-125ba8b2f4ef.png)
 
 
+# MySQL Query
+
+
+[Click here for the MySql Query](https://github.com/Alertbest/DannySqlChallenge/blob/main/DannyDinner.sql)
+
+
+
 
 
